@@ -14,7 +14,7 @@ This simple Android app demonstrates the use of Toast notifications to simulate 
 
 ## Screenshots
 ![Screenshot_20231219_192859](https://github.com/shivanagendrak/ToastApp/assets/40945928/1de0f891-edca-4364-91df-d707e121639d)
-<img src="https://github.com/shivanagendrak/ToastApp/raw/main/assets/40945928/1de0f891-edca-4364-91df-d707e121639d.png" alt="Screenshot" width="200"/>
+<img src="https://github.com/shivanagendrak/ToastApp/assets/40945928/1de0f891-edca-4364-91df-d707e121639d" alt="Screenshot" width="200"/>
 
 ![Screenshot_20231219_192917](https://github.com/shivanagendrak/ToastApp/assets/40945928/31138dd0-08f1-4fbb-87f0-b101b1622bb9)
 
